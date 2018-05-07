@@ -48,7 +48,7 @@ let question2 = Question(question: "Spørgsmål 2: Hvem er den bedste lærer?", 
 
 let question3 = Question(question: "Spørgsmål 3: Hvad er Mads' yndlingstal?", answsers: ["3", "6", "12", "144"], correctAnswerId: "4", score: 100000, gameHint: "HINT! Tallet er 3-cifret")
 
-let question4 = Question(question: "Spørgsmål 4: Hvorfor er det hans yndlingstal?", answsers: ["Fordi han har læst 144 Yugioh bøger", "fordi han har set Star Wars 144 gange", "Han siger 'with great power comes geat responsebillity' 144 gange dagligt", "Fordi 12^2=144"], correctAnswerId: "4", score: 250000, gameHint: "HINT! Mads er logisk tænkene")
+let question4 = Question(question: "Spørgsmål 4: x fucking d Hvorfor er det hans yndlingstal?", answsers: ["Fordi han har læst 144 Yugioh bøger", "fordi han har set Star Wars 144 gange", "Han siger 'with great power comes geat responsebillity' 144 gange dagligt", "Fordi 12^2=144"], correctAnswerId: "4", score: 250000, gameHint: "HINT! Mads er logisk tænkene")
 
 let question5 = Question(question: "Spørgsmål 5: Hvad er Mads' catchphrase?", answsers: ["Nu skal i lige holde tungen lige i munden" , "Nu skal i lige holde hovedet lige i munden" , "swiggity swooty i'm coming for that booty" , "Jeg hader mit job"], correctAnswerId: "2", score: 1000000, gameHint: "Mads opfinder tit sine egene ordsprog")
 
