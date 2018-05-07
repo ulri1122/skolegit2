@@ -1,2 +1,1 @@
-skolegit2
 *.xcodeoroj
